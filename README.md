@@ -18,12 +18,12 @@ bun dev
 - HTML
 - CSS
 - JavaScript
-- React
+- Nextjs
 - Node.js
   
 ## Steps
 1. Install Node
-2. Create React App
+2. Create Nextjs App
 3. Run Project
 4. Push to GitHub
 
@@ -31,6 +31,7 @@ bun dev
 - Frontend
   - HTML
   - CSS
+  - Typescript 
   - React
 - Backend
   - Node
