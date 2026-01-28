@@ -32,7 +32,7 @@ bun dev
   - HTML
   - CSS
   - Typescript 
-  - React
+  - Nextjs
 - Backend
   - Node
   - Express
