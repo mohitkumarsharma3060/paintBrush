@@ -13,6 +13,28 @@ pnpm dev
 # or
 bun dev
 ```
+## My Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+  
+## Steps
+1. Install Node
+2. Create React App
+3. Run Project
+4. Push to GitHub
+
+## Topics
+- Frontend
+  - HTML
+  - CSS
+  - React
+- Backend
+  - Node
+  - Express
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
